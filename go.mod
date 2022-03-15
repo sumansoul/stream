@@ -1,4 +1,4 @@
-module stream
+module github.com/sumansoul/stream
 
 go 1.16
 
